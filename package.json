@@ -24,8 +24,7 @@
   "dependencies": {
     "nan": "1.4.x",
     "options": ">=0.0.5",
-    "ultron": "1.0.x",
-    "xmlhttprequest-cookie": ">=0.9.2"
+    "ultron": "1.0.x"
   },
   "devDependencies": {
     "ansi": "0.3.x",
